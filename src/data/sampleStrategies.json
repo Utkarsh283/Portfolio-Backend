@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Growth",
+    "initialInvestment": 10000,
+    "currentValue": 15000,
+    "peakValue": 16000,
+    "troughValue": 14000,
+    "years": 3
+  },
+  {
+    "name": "Value",
+    "initialInvestment": 20000,
+    "currentValue": 25000,
+    "peakValue": 26000,
+    "troughValue": 24000,
+    "years": 5
+  },
+  {
+    "name": "Dividend",
+    "initialInvestment": 5000,
+    "currentValue": 6000,
+    "peakValue": 6200,
+    "troughValue": 5800,
+    "years": 2
+  },
+  {
+    "name": "Index Fund",
+    "initialInvestment": 15000,
+    "currentValue": 18000,
+    "peakValue": 18500,
+    "troughValue": 17000,
+    "years": 4
+  },
+  {
+    "name": "Tech Growth",
+    "initialInvestment": 20000,
+    "currentValue": 27000,
+    "peakValue": 28000,
+    "troughValue": 22000,
+    "years": 3
+  },
+  {
+    "name": "Real Estate",
+    "initialInvestment": 30000,
+    "currentValue": 35000,
+    "peakValue": 36000,
+    "troughValue": 33000,
+    "years": 6
+  }
+]
